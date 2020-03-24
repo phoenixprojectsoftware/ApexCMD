@@ -10,7 +10,7 @@ There are basic rules that MUST be followed at ALL TIMES by everyone who partici
 - Do not use ALL CAPS when creating an issue report.
 - Do not repeatedly update an open issue remarking that the issue persists. A developer from The Phoenix Project (someone with a username that ends with "-heatwave" or "-phoenix") will let you know if they have noticed the issue.
 # APEXCMD SDK LICENCE
-## BSD 3-Clause License
+## BSD 3-Clause License.
 Copyright © 2020, The Phoenix Project.
 All rights reserved.
 
