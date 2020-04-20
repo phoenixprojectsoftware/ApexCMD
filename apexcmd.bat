@@ -1,2 +1,2 @@
 @echo off
-%DIR%\EXAMPLE GAME\GAME.exe
+EXAMPLE GAME\GAME.bat
